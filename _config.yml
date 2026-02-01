@@ -16,10 +16,10 @@ timezone: America/New_York
 
 #title: Chirpy # the main title
 title: Chukkyz Notes # the main title
-tagline: A Doc site for my Engineering Notes and some  # it will display as the sub-title
+tagline: A Doc site for my Engineering Notes and then some  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A Doc site for my Notez!! 
+  github, devops, programming, and notes site 
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
